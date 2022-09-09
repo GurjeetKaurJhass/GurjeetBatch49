@@ -7,7 +7,7 @@ public class ArrayDemo {
         System.out.println("Enter the number of subjects");
         int numSubjects = sc.nextInt();
         int arr[] = new int[numSubjects];
-
+       System.out.println("jenkins prac");
 
         System.out.println("Enter the marks in each subject");
         for (int i = 0; i < arr.length; i++) {
